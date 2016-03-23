@@ -1,3 +1,3 @@
 # documentation
 Documentation Wiki
-[[page2]]
+[a relative link](page2)
